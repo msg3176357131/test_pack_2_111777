@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 DESCRIPTION = "simple utility utility"
 
 setup(
-    name="test_pack_111777",
+    name="test_pack_2_111777",
     version="1.0.0",
     author="Lora Bora",
     author_email="lorabora111777111777@gmail.com",
